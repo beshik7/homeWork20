@@ -60,5 +60,6 @@ public class Main {
                      for (Map.Entry<String, Integer> entry : wordCounts.entrySet()) {
                          System.out.println("Слово \"" + entry.getKey() + "\" встречается " + entry.getValue() + " раз(а)");
                      }
+
                  }
         }
